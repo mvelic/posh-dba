@@ -14,6 +14,6 @@ $sayings = Get-Content .\sayings
 while(1)
 {
 	Get-Random -Input $sayings
-	$i = Get-Random -Minimum 1 -Maximum 4
+	$i = Get-Random -Minimum 2 -Maximum 5
 	Start-Sleep -s $i
 }
