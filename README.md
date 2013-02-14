@@ -10,3 +10,8 @@ It's a DBA simulator.
 
 Open a shell
 `./dba.sh`
+
+### Windows Execution
+
+Open PowerShell
+`.\dba.ps1`
