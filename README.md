@@ -1,17 +1,8 @@
 # dba.sh
 
-It's a DBA simulator.
-
-## Setup
-
-`chmod +x dba.sh`
+It's a DBA simulator ported to PowerShell from [peschkaj's DBA shell simulator](https://github.com/peschkaj/dba)
 
 ## Execution
-
-Open a shell
-`./dba.sh`
-
-### Windows Execution
 
 Open PowerShell
 `.\dba.ps1`
